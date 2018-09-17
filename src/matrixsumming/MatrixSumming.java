@@ -70,7 +70,7 @@ final class MatrixSumming {
      * @param a
      *          first matrix
      * @param b
-     *          seconds matrix
+     *          second matrix
      * @return summed matrix
      */
     private static int[][] sumMatrices(final int[][] a, final int[][] b) {
